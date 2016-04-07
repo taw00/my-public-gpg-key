@@ -2,6 +2,10 @@
 
 Just a simple place to store my public GPG (PGP compatible GnuPG) key.
 
+You can simply navigate github to fetch and save my GPG public key, or just use this direct link:
+
+    https://raw.githubusercontent.com/taw00/my-public-gpg-key/master/taw-694673ED-public-2030-01-04.asc
+
 Relevant info...
 
     pub   4096R/694673ED 2014-04-24 [expires: 2030-01-04]
