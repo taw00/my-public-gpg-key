@@ -1,10 +1,12 @@
 # Todd's Public GPG Key
 
-Just a simple place to store my public GPG (PGP compatible GnuPG) key.
+Just a simple place to store my public keys.
+
+## GPG Public Key (GnuPG / PGP-compatible)
 
 You can simply navigate github to fetch and save my GPG public key, or just use this direct link:
 
-    https://raw.githubusercontent.com/taw00/my-public-gpg-key/master/taw-694673ED-public-2030-01-04.asc
+    https://raw.githubusercontent.com/taw00/public-keys/master/taw-694673ED-public-2030-01-04.asc
 
 Relevant info...
 
@@ -28,3 +30,7 @@ A good place to verify it other than here is at the Fedora Project key server:
 ...plug in my keyID ( 0x694673ED ) and verify it...
 
     https://keys.fedoraproject.org/pks/lookup?search=0x694673ED&fingerprint=on&op=vindex
+
+## SSL Public Key
+
+Not posted yet.
