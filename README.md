@@ -27,10 +27,14 @@ A good place to verify it other than here is at the Fedora Project key server:
 
     https://keys.fedoraproject.org/
 
-...plug in my keyID ( 0x694673ED ) and verify it...
-
-    https://keys.fedoraproject.org/pks/lookup?search=0x694673ED&fingerprint=on&op=vindex
+...just plug in my keyID ( [0x694673ED](https://keys.fedoraproject.org/pks/lookup?search=0x694673ED&fingerprint=on&op=vindex) ) and verify it.
 
 ## SSL Public Key
 
 Not posted yet.
+
+## Cryptocurrency
+
+* **[bitcoin](https://bitcoin.org):** [`1ALVgb5LA3a3V9J7YBFY2xqCcuezAFe6pc`](https://blockexplorer.com/address/1ALVgb5LA3a3V9J7YBFY2xqCcuezAFe6pc)
+
+* **[dash](https://dash.org):** [`XyxQq4qgp9B53QWQgSqSxJb4xddhzk5Zhh`](https://explorer.dash.org/address/XyxQq4qgp9B53QWQgSqSxJb4xddhzk5Zhh)
